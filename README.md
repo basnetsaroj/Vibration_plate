@@ -1,24 +1,22 @@
-# Free Vibration Analysis of a Simplified Compressor Blade
-### Modeled as a Rectangular Plate with NACA 2412 Thickness Distribution
+# Free Vibration Analysis of a Simplified Compressor Blade with NACA 2412 Thickness Distribution
 
-This project implements the Reissner–Mindlin plate theory using the Rayleigh–Ritz method 
-to perform free vibration analysis of a simplified compressor blade. The blade is modeled 
-as a rectangular plate with a variable thickness following the NACA 2412 airfoil profile.
+This repository contains the implementation and results of an independent research project on the vibration characteristics of a compressor blade modeled as a variable-thickness rectangular plate.
 
-**Key Features**
-- Variable thickness using NACA 2412 formula
-- Rayleigh–Ritz implementation in Python
-- Reissner–Mindlin first-order shear deformation theory
-- Gaussian quadrature integration
-- Mode shape and frequency validation against ANSYS FEM results
+## Overview
+A semi-analytical model was developed using **Reissner–Mindlin plate theory** and the **Rayleigh–Ritz method** to analyze free vibration behavior of a rectangular plate with a **NACA 2412** thickness profile and **CFFF (Clamped–Free–Free–Free)** boundary condition.
 
-**Main Results**
-- <3% difference for first six natural frequencies compared to ANSYS
-- Bending-dominated and membrane-type modes identified via energy partitioning
+The formulation was implemented in **Python**, and results were validated with **ANSYS FEM**, showing less than **3 % deviation** in the first six natural frequencies.
 
----
+## Repository Structure
+- `Calculation Code/` – Python scripts for Rayleigh–Ritz formulation, stiffness/mass matrix assembly, and eigenvalue solution  
+- `ANSYS/` – FEM model setup and mode shape images  
+- `Data calc.xlsx` – Numerical data and computed frequency comparison  
+- `Free Vibration Analysis of varying thickness plate.pdf` – Full technical report  
+- `README.md` – Project summary  
 
-**Author:**  
-Saroj Basnet
+## Current Work
+The model is being extended to include **taper, twist, and rotational effects** (centrifugal stiffening and gyroscopic coupling) for more realistic compressor-blade dynamics.
 
-Currently extending the framework to include taper, twist, and rotational effects.
+## Citation
+If you refer to this work, please cite as:
+> Basnet, S. (2025). *Free Vibration Analysis of a Simplified Compressor Blade with NACA 2412 Thickness Distribution (Independent Research)*.
