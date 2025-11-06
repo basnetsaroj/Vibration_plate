@@ -19,5 +19,6 @@ as a rectangular plate with a variable thickness following the NACA 2412 airfoil
 ---
 
 **Author:**  
-Saroj Basnet (Pulchowk Campus, IoE, TU)  
+Saroj Basnet
 
+Currently extending the framework to include taper, twist, and rotational effects.
