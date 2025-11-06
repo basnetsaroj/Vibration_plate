@@ -15,7 +15,7 @@ The formulation was implemented in **Python**, and results were validated with *
 - `README.md` – Project summary  
 
 ## Current Work
-The model is being extended to include **taper, twist, and rotational effects** (centrifugal stiffening and gyroscopic coupling) for more realistic compressor-blade dynamics.
+The model is being extended under the supervision of Asst. Prof. Bikki Chhantyal (Thapathali Campus) to include **taper, twist, and rotational effects** (centrifugal stiffening and gyroscopic coupling) for more realistic compressor-blade dynamics.
 
 ## Citation
 If you refer to this work, please cite as:
