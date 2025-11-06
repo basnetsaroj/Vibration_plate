@@ -18,6 +18,6 @@ as a rectangular plate with a variable thickness following the NACA 2412 airfoil
 
 ---
 
-**Authors:**  
+**Author:**  
 Saroj Basnet (Pulchowk Campus, IoE, TU)  
-Bikki Chhantyal (Thapathali Campus, IoE, TU)
+
