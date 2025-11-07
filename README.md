@@ -11,7 +11,7 @@ The formulation was implemented in **Python**, and results were validated with *
 - `Calculation Code/` – Python scripts for Rayleigh–Ritz formulation, stiffness/mass matrix assembly, and eigenvalue solution  
 - `ANSYS/` – FEM model setup and mode shape images  
 - `Data calc.xlsx` – Numerical data and computed frequency comparison  
-- `Free Vibration Analysis of varying thickness plate.pdf` – Full technical report  
+- `Report: Free Vibration Analysis of simplified blade.pdf` – Full technical report  
 - `README.md` – Project summary  
 
 ## Current Work
