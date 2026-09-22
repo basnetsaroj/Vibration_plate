@@ -10,5 +10,5 @@
 
 ## Current Work
 The manuscript is under preparation for rotating cambered blade. Initial results show error less than 1.5%.
-Read the latest draft: New_draft.pdf
+Read the latest draft: `New_draft.pdf`
 
