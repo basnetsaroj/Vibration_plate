@@ -5,7 +5,7 @@
 - `ANSYS/` – FEM model setup and mode shape images
 - `Updated Result/` – The ongoing recently updated work
 - `Data calc.xlsx` – Numerical data and computed frequency comparison  
-- `Report-Free Vibration Analysis of simplified blade.pdf` – Full technical report  
+- `Old report: simplified blade.pdf` – Full technical report  
 - `README.md` – Project summary  
 
 ## Current Work
