@@ -3,9 +3,8 @@
 ## Repository Structure
 - `Calculation Code/` – Python scripts for Rayleigh–Ritz formulation, stiffness/mass matrix assembly, and eigenvalue solution  
 - `ANSYS/` – FEM model setup and mode shape images
-- `Updated Result/` – The ongoing recently updated work
-- `Data calc.xlsx` – Numerical data and computed frequency comparison  
-- `Old report: simplified blade.pdf` – Full technical report  
+- `Updated work: New_Draft.pdf/` – The ongoing recently updated work.
+- `Old report: Old report simplified blade.pdf` – Full technical report from earlier simplified work.
 - `README.md` – Project summary  
 
 ## Current Work
