@@ -1,4 +1,4 @@
-# Free Vibration Analysis of a NACA airfoil Compressor Blade 
+# A degenerated-continuum Ritz formulation for the free vibration of rotating pre-twisted, tapered and cambered NACA compressor blades
 
 ## Repository Structure
 - `Calculation Code/` – Python scripts for Rayleigh–Ritz formulation, stiffness/mass matrix assembly, and eigenvalue solution  
